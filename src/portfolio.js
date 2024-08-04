@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "As a seasoned Data Scientist and AI enthusiast, I harness the power of data-driven solutions to drive business impact. With a strong background in building data-intensive applications, I excel in predictive modeling, data processing, and data mining algorithms.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1sA0C2LKcN7iAkNjxb7CNSTUUTGJ2Hp3Z/view?usp=sharing",
+  portfolio_repository: "https://drive.google.com/file/d/1sA0C2LKcN7iAkNjxb7CNSTUUTGJ2Hp3Z/view?usp=sharing",
   githubProfile: "https://github.com/shsarv",
 };
 
