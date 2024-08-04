@@ -502,7 +502,7 @@ const experience = {
           logo_path: "Sisense.jpg",
           duration: "Nov 2022 - Oct 2023",
           location: "NewYork, USA",
-          description:"Architected a scalable, cloud-native data platform, leveraging Distributed Computing, Serverless Architecture, and Real-time Data Processing to tackle complex dataset challenges, ensuring High Availability and Low Latency. Led a team of engineers in designing, developing, and deploying Microservices-based features, resolving multiple bugs, and implementing RESTful APIs to fetch adverse media effect solutions, resulting in a 25% increase in System Efficiency and 30% reduction in Cost. Developed and Deployed a cutting-edge Customer Attrition Prediction Model using Reinforcement Learning, Deep Learning, and Natural Language Processing techniques, improving Monthly Retention by 12 basis points for high-risk customers, by proactively servicing relevant product features, and enhancing Customer Experience.",
+          description:"Developed and managed Data Lakes using Apache Hadoop, Apache Spark, and Amazon S3, increasing data storage capacity by 50% and reducing data retrieval time by 40%. Orchestrated and maintained Data Warehousing solutions using Snowflake, Amazon Redshift, and Apache Hive, improving data query performance by 40% and reducing costs by 15%.",
           color: "#000000",
         },
         {
@@ -513,7 +513,7 @@ const experience = {
           duration: "May 2021 - Oct 2022",
           location: "Hybrid",
           description:
-            "Transformed data extraction, warehousing, and analytics initiatives, slashing operating costs by 20% and unlocking custom programming possibilities. Developed cutting-edge NLP models and machine learning pipelines, turbo-charging customer segmentation accuracy by 20%. Leveraged AI/ML expertise to drive business impact and growth.",
+            "Led 10 initiatives in data extraction, warehousing, and analytics, leveraging LLMs, GenAI, and Data Fabric architecture to cut operating costs by 20%, enhance business intelligence, and improve DataOps agility. Collaborated with a team of 3 data analysts to implement NLP models using Transformers, BERT, and spaCy for web scraping, ensuring data quality, integrity, and compliance with Data Governance standards.",
           color: "#0879bf",
         },
         {
@@ -535,7 +535,7 @@ const experience = {
           duration: "Sep 2020 - Feb 2021",
           location: "Remote",
           description:
-            "Spearheaded scalable data architectures for tourism data. Developed optimized data pipelines for high-quality delivery. Built predictive analytics models for personalized customer experiences. Achieved 25% boost in data quality and 25% increase in efficiency. Processed over 1TB of tourism data.",
+            "Designed and implemented a Real-Time Data Pipeline using Apache Kafka, Apache Flink, and Apache Cassandra, increasing data processing speed by 30% and reducing latency by 25%. Built and deployed Machine Learning models using TensorFlow, PyTorch, and Scikit-Learn, achieving an accuracy of 95% in predictive analytics and reducing model training time by 20%.",
           color: "#fc1f20",
         },
       ],
@@ -587,7 +587,7 @@ const experience = {
           company_url: "https://www.microsoft.com/",
           logo_path: "microsoft_logo.png",
           duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          location: "Remote",
           description:
             "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
           color: "#D83B01",
